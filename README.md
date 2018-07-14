@@ -17,7 +17,11 @@ change.txt output:
 2
 
 ```
-Running the file:   
+Compiling the file:   
 ```
 g++ change.cpp 
+```
+Running the file:   
+```
+a.out
 ```
