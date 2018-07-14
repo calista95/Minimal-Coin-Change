@@ -17,3 +17,7 @@ change.txt output:
 2
 
 ```
+Running the file:   
+```
+g++ change.cpp 
+```
